@@ -1,5 +1,0 @@
-Full tutorialfrom docs.djangoproject.com
-
-To install polls package use:
-
-    pip install --user django-polls/dist/django-polls-0.1.tar.gz
