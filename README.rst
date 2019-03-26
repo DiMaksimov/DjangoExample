@@ -2,6 +2,8 @@
 Polls
 =====
 
+Full tutorial from docs.djangoproject.com
+
 Polls is a simple Django app to conduct Web-based polls. For each
 question, visitors can choose between a fixed number of answers.
 
@@ -9,6 +11,9 @@ Detailed documentation is in the "docs" directory.
 
 Quick start
 -----------
+0. To install polls package use:
+
+    pip install --user django-polls/dist/django-polls-0.1.tar.gz
 
 1. Add "polls" to your INSTALLED_APPS setting like this::
 
